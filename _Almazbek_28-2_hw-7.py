@@ -130,7 +130,6 @@ if db_connection is not None:
     # create_product(db_connection, ("Салфетки", 14.12, 700))
     # create_product(db_connection, ("Крем для рук", 123.12, 150))
     # create_product(db_connection, ("Крем для лица", 360.12, 150))
-
     # update_products(db_connection, (33, 15))
     # update_products1(db_connection, (13.14, 3))
     # delete_products(db_connection, 3)
