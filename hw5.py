@@ -39,6 +39,6 @@ def casino():
             print(f'Four balance: {balance}')
             break
 
+
 if __name__ == "__main__":
     casino()
-
